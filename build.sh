@@ -1,1 +1,1 @@
-g++ rpi-wiringpi.c -lwiringPi
+g++ rpi-wiringpi.c -lwiringPi -o rpi-wiringpi
